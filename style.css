@@ -1,0 +1,1037 @@
+*{
+    margin: 0;padding: 0;
+}
+
+
+.background-img{
+    background: url(images/img1.png.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: center bottom;
+}
+.heading{
+    font-weight: 700;
+    font-size: 10rem;
+    font-family: "Inter", sans-serif;
+    color:#FFFFFF;
+   padding-top: 200px;
+    text-align: center;
+    
+    
+}
+.paragraph{
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 10px;
+    font-family: "Inter", sans-serif;
+    padding-bottom: 30px;
+}
+.background-color{
+    background-color:  #004777;
+    background: cover;
+    height: 100vh;
+}
+.h1{
+    color: rgb(122, 120, 247);
+    font-size:50px ;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 100;
+    font-family: "Inter", sans-serif;
+}
+.background-color span{
+    color: #FFFFFF;
+    padding-top:100px;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+.page3{
+background-color: #067AB2;
+display: flex;
+padding-top: 5%;
+padding-bottom: 5%;
+height: auto;
+}
+
+
+    
+    
+
+
+
+    
+
+.section1{
+    width: 50%;
+    color: #FFFFFF;
+    padding-top: 30px;
+    font-weight: 200;
+    font-size: 20px;
+    padding-left: 10%;
+    margin-right: 50px;
+
+}
+.section1-hr{
+width: 30px;
+
+}
+.section1-button{
+    padding:5px 15px 5px 15px;
+    margin-top: 30px;
+    text-decoration: #FFFFFF;
+}
+.section1 h2{
+    font-family: Barlow;
+}
+.section1 span{
+    color: #FFFFFF;
+    padding: 50px;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    margin-left: 50px;
+}
+.section2{
+    width: 50%;
+
+
+
+
+
+}
+.section2 img{
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.page4{
+    background-color:  #004777;
+    ;
+    /* background-image: url(images/img4.png); */
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: auto;
+}
+.part1{
+    width: 50%;
+    color:  #FFFFFF;
+
+    font-size: 24px;
+    font-weight: 10;
+    /* padding: 50px; */
+    font-family: "Inter", sans-serif;
+    margin-left:10%;
+    
+    
+    
+}
+.part1-hr{
+    width: 20%;
+}
+
+.part1 h4{
+padding-top: 5%;
+}
+.part1 h5{
+    padding-top: 5%;
+    font-size: 1rem;
+
+}
+.part2{
+/* width: 50%; */
+padding-left: 10%;
+}
+.part2 img{
+    /* width: 70%; */
+    /* position: Right-bottom; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 90%;
+    padding-right: 0%;
+    
+}
+.page5{
+    
+    background-color:#067AB2 ;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 10%;
+padding-bottom: 0%;
+height: auto;
+
+     
+}
+.contain1{
+width: 50%;
+color: #FFFFFF;
+/* padding-left: 20%; */
+
+font-family: "Inter", sans-serif;
+font-size: 20px;
+padding-top: 5%;
+margin-top: 5%;
+margin-top: -21%;
+
+}
+.contain1-hr{
+    width: 10%;
+}
+.contain1 h2{
+    font-size: 30px;
+
+    
+}
+.contain1 h5{
+padding-top: 5%;
+}
+.page5-ul-list{
+    padding-right: 107px;
+    font-size: 1rem;
+    
+}
+
+
+
+.contain2{
+width: 20%;
+padding-top: 200px;
+padding-left: 10%;
+margin-bottom: 0%;
+
+
+
+}
+.contain2 img{
+    width: 150%;
+    height: 150%;
+    
+
+}
+.page6{
+    background-color:  #004777;
+    width: 100%;
+    /* display: block; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: auto;
+    
+
+}
+.structure{
+    color: #FFFFFF;
+    /* padding: 100px 100px; */
+    justify-content: center;
+    align-items: center;
+    font-weight: 30px;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    margin-left: 10%;
+    
+    
+    
+    
+
+}
+
+.structure h2{
+    padding-bottom: 0px;
+    /* text-align: center; */
+    
+    
+}
+.structure-hr{
+    width: 20px;
+    margin-bottom: 20px;
+}
+.structure h5{
+    padding-bottom: 20px;
+}
+.page7{
+background-color: #067AB2;
+/* justify-content:center; */
+/* align-items: center; */
+width: 100%;
+padding-top: 5%;
+padding-bottom: 5%;
+height: auto;
+
+
+}
+.page7 h2{
+    
+    margin-bottom: 0px;
+    font-size: 100%;
+    /* text-align: center; */
+}
+.container-hr{
+    width: 20PX;
+    margin-bottom: 20px;
+}
+.page7 p{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.container{
+    color: #FFFFFF;
+    padding-top: 0px;
+    padding-left:0%;
+    padding-right: 50px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top:0%;
+    
+    
+
+}
+
+
+.page8{
+    background-color: #004777;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: auto;
+    
+
+}
+
+.username{
+    display: flex;
+}
+.page8 h2{
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 50px;  
+    
+}
+.up{
+    display: flex;
+    margin: 0% 3% 2% 3%;
+    
+}
+.side1{
+     width: 50%;
+     color: #004777;
+     border:50%;
+     background-color: #FFFFFF;
+     padding: 5% 5% 5% 5%;
+     margin-right: 20px;
+     border-radius: 10px;
+     
+}
+.outer{
+    display: flex;
+
+}
+.side1left{
+/* margin-right: 20%; */
+display: flex;
+}
+.side1left img{
+    width: 100%;
+    border-radius: 50px;
+}
+
+
+.side1left p{
+    color: gray;
+}
+.side1right{
+    padding-left: 10%;
+    
+
+}
+.icon{
+    display: flex;
+    gap: 40%;
+    color: #067AB2;
+}
+.side2{
+    width: 50%;
+    color: #004777;
+    border: 50%;
+    background-color: #FFFFFF;
+    padding: 5% 5% 5% 5%;
+    border-radius: 10px;
+    
+    
+    
+}
+.side2outer{
+    display: flex;
+}
+.side2left{
+    margin-right: 20%;
+    display: flex;
+
+}
+.side2left img{
+    width: 90%;
+    border-radius: 50px;
+}
+.side2left p{
+    color: grey;
+}
+.side2right{
+padding-left: 10%;
+}
+.down{
+    display: flex;
+    margin: 0% 3% 2% 3%;
+    
+    
+}
+ .side3{ 
+    width: 50%;
+    color: #004777;
+    border: 50%;
+    background-color: #FFFFFF;
+    padding: 5% 5% 5% 5%;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    border-radius: 10px; 
+     
+    
+}
+.side3outer{
+    display: flex;
+}
+.side3left{
+margin-right: 10%;
+
+}
+.side3left img{
+    width:10%;
+    border-radius: 50px;
+}
+.side3left p{
+    color: grey;
+}
+.side3right{
+padding-left: 10%;
+} 
+
+
+
+
+
+.side4{
+    width: 50%;
+    color: #004777;
+    border: 50%;
+    background-color: #FFFFFF;
+    padding: 5% 5% 5% 5%;
+    border-radius: 10px;
+    
+    
+    
+}
+.side4outer{
+    display: flex;
+}
+.side4left{
+    margin-right: 20%;
+    display: flex;
+
+}
+.side4left img{
+    width: 90%;
+    border-radius: 50px;
+}
+.side4left p{
+    color: grey;
+}
+.side4right{
+padding-left: 10%;
+}
+
+.page9{
+justify-content: center;
+align-items: center;
+padding-top: 5%;
+padding-bottom: 5%;
+height: auto;
+padding-left: 2%;
+}
+.main{
+color: #004777;
+padding-bottom: 30px;
+font-size: 200%;
+padding-left: 6%;
+}
+.main hr{
+    width: 50px;
+    color: #FFFFFF;
+}
+.lines{
+    
+    
+    /* padding: 40px 50px 40px 50px; */
+
+}
+.line1{
+margin: 30px;
+padding: 20px;
+display: flex;
+justify-content: space-around;
+}
+
+.line2{
+margin: 30px;
+padding: 20px;
+display: flex;
+justify-content: space-around;
+
+}
+.line3{
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.page10{
+background-color: #067AB2;
+display: flex;
+padding-top: 5%;
+padding-bottom: 5%;
+height: auto;
+
+}
+.left{
+    width: 50%;
+    margin-left: 50px;
+    padding-right: 10%;
+    padding-left: 10%;
+
+}
+.left h1{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: "Inter", sans-serif;
+    /* text-align: center; */
+    padding-top: 10%;
+
+}
+.page10leftouter{
+    /* text-align: center; */
+}
+.one{
+     color:#FFFFFF;
+    margin: 10%;
+    font-family: "Inter", sans-serif;
+}
+.one img{
+    width: 5%;
+}
+    
+
+.two{
+color: #FFFFFF;
+font-family: "Inter", sans-serif;
+margin:10%
+}
+.two img{
+width: 5%;
+}
+.two-hr{
+    width: 50%;
+}
+.three{
+color: #FFFFFF;
+font-family: "Inter", sans-serif;
+margin:10%
+}
+.three img{
+    width: 5%;
+}
+.three-hr{
+    width: 50%;
+}
+.four{
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+margin: 10%;
+}
+.four img{
+    width: 5%;
+}
+.four-hr{
+    width: 50%;
+}
+.right{
+    width: 50%;
+    background-color: #004777;
+    margin-right: 10%;
+    border-radius: 5px;
+    
+    
+
+    
+}
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.top1{
+    color: #FFFFFF;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 40%;
+}
+.top1 input{
+    padding:10px;
+    border-radius: 10px;
+    margin: 5px 10px 5px 5px;
+    
+}
+.top2{
+color: #FFFFFF;
+margin-left: 50px;
+margin-top: 6px;
+width: 40%;
+}
+.top2 input{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px 10px 5px 5px;
+}
+.bottom{
+display: flex;
+justify-content: center;
+align-items: center;
+width:100% ;
+}
+.bottom1{
+    color: #FFFFFF;
+    margin-right: 100px;
+
+    margin-top: 50px;
+    width: 40%;
+    margin-left: 10px;
+    
+}
+.bottom1 input{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+}
+.bottom2{
+    color: #FFFFFF;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 40%;
+
+}
+.bottom2 input{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px 10px 5px 5px;
+    
+}
+.Message{
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 20px;
+    padding-right: 10px;
+    
+}
+.Message input{
+    padding: 30px 50px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+
+}
+.Send-Message{
+    /* color: aliceblue; */
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #004777;
+}
+.Send-Message button{
+    color: #FFFFFF;
+    background-color: #067AB2;
+    padding:20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+
+/* <......................media query....................> */
+
+@media(min-width:300px) and (max-width:1000px) {
+ 
+    .background-img{
+        height: 50vh;
+    }
+    .heading{
+        padding-top:40%;
+    }
+
+
+    .background-color{
+        height: 50vh;
+    }
+    .h1{
+font-weight: 300;
+    }
+    .img1{
+        height: 100%; 
+        padding-bottom: 20%;
+    }
+
+.page3{
+    height: 60vh;
+    display: block;
+}
+.section1{
+    /* padding-left: 25%; */
+    width: 90%;
+    margin-right: 5%;
+}
+.section1-hr{
+    font-size: 200%;
+    font-weight: 200;
+    width:50px;
+}
+.section1 span{
+    font-size:40px;
+    font-weight: 200;
+}
+.section1-button{
+font-size: 25px;
+}
+.section2{
+margin-left: 10%;
+     width: 80%;
+     padding-bottom: 5%;
+     
+}
+.page4{
+    height: auto;
+    display: block;
+    padding-left: 2%;
+
+}
+.part1{
+    width: 90%;
+}
+.part1 h4{
+    font-size: 38px;
+    padding-left: 2%;
+    font-weight: 200;
+}
+.part1 h5{
+    font-size: 20px;
+    /* padding-left: 5%; */
+    padding-right: 5%;
+    font-weight: 150;
+}
+.part2{
+    display: none;
+}
+
+.page5{
+    height: auto;
+    display: block;
+}
+.contain1 h2{
+margin-top: 20%;
+font-size: 40px;
+font-weight: 400;
+padding-left: 10%;
+
+}
+.contain1{
+    /* padding-left: 10%; */
+    width: 90%;
+    justify-content: center;
+}
+
+.page5-ul-list{
+font-size: 24px;
+font-weight: 150;
+padding-left: 10%;
+padding-right: 5%;
+
+}
+.contain2{
+    padding-left: 20%;
+}
+
+.contain2 img{
+
+    width: 50vw;
+    padding-bottom:20%;
+}
+
+.page6{
+
+}
+.structure{
+    font-size: 15px;
+    font-weight: 100;
+}
+.structure h2{
+    font-size: 30px;
+    font-weight: 500;
+    padding-left: 2%;
+}
+
+.structure h5{
+font-size: 28px;
+font-weight: 200;
+padding-left: 2%;
+}
+
+.page7{
+
+}
+
+.page7 h2{
+    font-size: 40px;
+font-weight: 400;
+}
+
+.page7 p{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.container{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+.page8{
+    height: auto;
+}
+
+.up{
+    display: block;
+    
+}
+.side1{
+   width: 90%; 
+margin-bottom: 5%;
+}
+.outer{
+    display:block;
+}
+.side1left p{
+    font-size: 50px;
+}
+.side1right{
+    padding-left: 5%;
+}
+ .side1right img{
+    width: 10%;
+}
+.side2{
+width: 90%;
+}
+.side2outer{
+    display: block;
+}
+
+.side2left p{
+    font-size: 50px;
+}
+.side2right{
+    padding-left: 5%;
+}
+.side2right img{
+    width: 10%;
+}
+.down{
+    display: block;
+    
+}
+.side3{
+    width: 90%;
+}
+
+.side3left p{
+font-size: 40px;
+}
+.side3right{
+    padding-left: 5%;
+}
+.side3right img{
+    width: 10%;
+}
+.side4{
+    width: 90%;
+
+}
+.side4outer{
+    display: block;
+}
+.side4left p{
+   font-size: 50px; 
+}
+.side4right{
+    padding-left: 5%;
+}
+.side4right img{
+    width: 10%;
+}
+
+.icon{
+    
+    gap: 5%;
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+    
+    
+}
+
+.page10{
+    height: auto;
+    display: block;
+    justify-content: center;
+}
+.left{
+    width: 90%;
+    justify-content: center;
+    padding-left: 2%;
+}
+
+.left h1{
+    font-size: 50px;
+    padding-right: 9%;
+
+}
+
+.one{
+    font-size: 24px;
+    padding-right: 10%;
+    font-weight: 200;
+}
+.one img{
+    width: 10%;
+}
+.one p{
+    font-size: 40px;
+    font-weight: 500;
+}
+.two{
+    font-size: 24px;
+    padding-right: 15%;
+    font-weight: 200;
+}
+.two p{
+    font-size: 50px;
+    font-weight: 500;
+}
+.two img{
+    width: 10%;
+}
+.three{
+    font-size: 24px;
+    padding-right: 15%;
+    font-weight: 200;
+}
+.three p{
+    font-size: 50px;
+    font-weight: 500;
+}
+.three img{
+    width: 10%;
+}
+.four{
+    font-size: 24px;
+    padding-right: 20%;
+    font-weight: 200;
+    
+}
+.four p{
+    font-size: 50px;
+    font-weight: 500;
+}
+.four img{
+    width: 10%;
+}
+
+.right{
+    width: 90%;
+    margin-left: 5%;
+    
+}
+.top{
+    display: block;
+    
+}
+.top1{
+    font-size: 50px;
+    
+    padding-top: 10%;
+    padding-left: 5%;
+    
+}
+
+.top1 input{
+    padding:30px 200px;
+}
+.top2{
+    font-size: 50px;
+    margin-top: 5%;
+}
+.top2 input{
+    padding: 30px 200px;
+}
+.bottom{
+    display: block;
+    
+}
+.bottom1{
+    font-size: 50px;
+    padding-left: 5%;
+}
+.bottom1 input{
+    padding: 30px 200px;
+}
+.bottom2{
+    font-size: 50px;
+    padding-left: 2%;
+}
+.bottom2 input{
+    padding: 30px 200px;
+}
+
+.Message{
+    font-size: 50px;
+    padding-left: 5%;
+}
+.Message input{
+    padding: 30px 200px;
+}
+
+.Send-Message button{
+    font-size: 30px;
+}
+
+}
