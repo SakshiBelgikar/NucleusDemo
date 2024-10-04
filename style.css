@@ -709,6 +709,10 @@ font-weight: 300;
     width: 90%;
     margin-right: 5%;
 }
+.section1 h2{
+    font-size: 40px;
+    font-weight: 500;
+}
 .section1-hr{
     font-size: 200%;
     font-weight: 200;
@@ -762,6 +766,10 @@ font-weight: 400;
 padding-left: 10%;
 
 }
+.contain1-hr{
+    width: 20%;
+    margin-left: 10%;
+}
 .contain1{
     /* padding-left: 10%; */
     width: 90%;
@@ -785,9 +793,9 @@ padding-right: 5%;
     padding-bottom:20%;
 }
 
-.page6{
+/* .page6{
 
-}
+} */
 .structure{
     font-size: 15px;
     font-weight: 100;
@@ -795,6 +803,11 @@ padding-right: 5%;
 .structure h2{
     font-size: 30px;
     font-weight: 500;
+    padding-left: 2%;
+}
+
+.structure-hr{
+    width: 20%;
     padding-left: 2%;
 }
 
@@ -822,6 +835,9 @@ font-weight: 400;
     font-size: 20px;
     font-weight: 100;
 }
+.container-hr{
+    width: 20%;
+}
 
 
 .page8{
@@ -835,6 +851,7 @@ font-weight: 400;
 .side1{
    width: 90%; 
 margin-bottom: 5%;
+font-size: 40px;
 }
 .outer{
     display:block;
@@ -850,6 +867,7 @@ margin-bottom: 5%;
 }
 .side2{
 width: 90%;
+font-size: 40px;
 }
 .side2outer{
     display: block;
@@ -870,6 +888,7 @@ width: 90%;
 }
 .side3{
     width: 90%;
+    font-size: 40px;
 }
 
 .side3left p{
@@ -883,6 +902,8 @@ font-size: 40px;
 }
 .side4{
     width: 90%;
+    font-size: 40px;
+    
 
 }
 .side4outer{
@@ -909,16 +930,31 @@ font-size: 40px;
     
 }
 
+.line1 img{
+    width:20%;
+}
+.line2 img{
+    width: 20%;
+}
+.line3 img{
+    width: 20%;
+}
+
 .page10{
     height: auto;
     display: block;
     justify-content: center;
 }
 .left{
-    width: 90%;
+    width: 100%;
     justify-content: center;
-    padding-left: 2%;
+    /* padding-left: 2%; */
+    /* width: 0%; */
+    margin-left: 0px;
+    padding-right: 0;
+    padding-left: 0%;
 }
+
 
 .left h1{
     font-size: 50px;
